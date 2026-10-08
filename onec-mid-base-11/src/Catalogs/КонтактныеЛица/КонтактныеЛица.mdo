@@ -40,10 +40,10 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <attributes uuid="a2d3e118-be26-41b3-acf6-84965c9c40be">
-    <name>КонтактныйТелефон</name>
+    <name>Телефон</name>
     <synonym>
       <key>ru</key>
-      <value>Контактный телефон</value>
+      <value>Телефон</value>
     </synonym>
     <type>
       <types>String</types>
